@@ -1,6 +1,10 @@
 {
   "name": "ejemplo_version",
+<<<<<<< HEAD
   "version": "0.0.3-rc.3",
+=======
+  "version": "0.0.1-rc.0",
+>>>>>>> 0a4c39b3f9391f6926a44949eead59fad64f01f4
   "description": "",
   "main": "index.js",
   "scripts": {
